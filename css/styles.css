@@ -1,7 +1,3 @@
 .adult-ride-1, .adult-ride-2, .kid-ride-1, .family-ride-1, .family-ride-2{
   display: none;
 }
-
-#park-policies, #loop-di-loop, #drop-of-death, #crazy-bus, #fun-wheel, #teacup-twirl {
-  display: none;
-}
